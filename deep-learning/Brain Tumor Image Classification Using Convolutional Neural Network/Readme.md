@@ -19,8 +19,8 @@ This project aims to classify brain tumor images into four categories: glioma tu
 
 ## Results
 
-- Training accuracy: Approximately 97.58%.
-- Test accuracy: Approximately 72.58%.
+- Training accuracy: Approximately 99.84.%.
+- Test accuracy: Approximately 82.58%.
 - Potential for improvement through techniques like data augmentation, model architecture adjustments, and hyperparameter tuning.
 
 ## Evaluation
